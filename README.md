@@ -1,7 +1,5 @@
 # Node, Express, SQL and live data
 
-There are issues with connecting to the database when the form is run.
-
 Git clone to the directory of your choice, cd into the project folder and NPM install.
 Run npm start and navigate to localhost:3000
 
